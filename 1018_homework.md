@@ -1,3 +1,8 @@
+
+![gantt]()
+
+![gantt](PERTCPM.jpg)
+
 # 2021_1018homework
 
 
@@ -20,4 +25,3 @@
 
 #### 題目：比價系統
 
-![gantt]()
