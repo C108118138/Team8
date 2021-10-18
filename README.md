@@ -1,10 +1,11 @@
 # Team8
 
+# Team8_homework1
+
 ![gantt](小組甘特圖.jpg)
 
 ![PERTCPM](PERTCPM.jpg)
 
-# 2021_1018homework
 
 
 ### 組長：c10811838 曾昱翔
@@ -25,6 +26,8 @@
 #### 使用者測試：曾昱翔、葉慎之、王柏昌、劉育綸、李秉叡、周柏亨
 
 #### 題目：比價系統
+
+# Team8_homework2
 
 ![](2021_1018HW第二題.png)
 
