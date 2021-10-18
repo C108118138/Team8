@@ -1,7 +1,7 @@
 
-![gantt]()
+![gantt](小組甘特圖.jpg)
 
-![gantt](PERTCPM.jpg)
+![PERTCPM](PERTCPM.jpg)
 
 # 2021_1018homework
 
